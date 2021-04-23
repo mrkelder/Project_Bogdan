@@ -150,3 +150,5 @@ Root
 ```
 
 ## Components
+
+- [BinItem](./docs/BinItem.md)
